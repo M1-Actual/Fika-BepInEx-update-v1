@@ -1,0 +1,11 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot3,"RedBeard",hard,65,Failed,"The Courier","Zone mech_41_1","1","13:30:32","13:31:21",
+Bot2,"reider123",hard,64,Failed,"Big Red","Big Red: Objective #2","1","13:30:32","14:00:16",
+Bot1,"MedDeatH",hard,64,Failed,"Boss Hunter","Spawn Point (-311.9 1.0 -125.0)","1","13:30:32","13:58:39",
+Bot26,"Logical Solutions",hard,63,Pending,"Boss Hunter","Spawn Point (-157.7 1.6 -190.8)","1","13:31:02","N/A",
+Bot24,"AshleyShcaefferBMW",hard,65,Pending,"Big Red Rush","Big Red Rush: Objective #1","1","13:31:02","N/A",
+Bot25,"Bepis",hard,55,Pending,"Boss Hunter","Spawn Point (-157.7 1.6 -190.8)","1","13:31:02","N/A",
+Bot23,"Gizzy",hard,58,Completed,"North Shack by Big Red","North Shack by Big Red: Objective #1","1","13:31:02","13:57:18",
+Bot23,"Gizzy",hard,58,Failed,"Storage","Storage: Objective #7","1","13:57:23","13:59:15",
+Bot22,"ODT",hard,56,Completed,"Boss Hunter","Spawn Point (-163.0 3.2 -168.5)","1","13:31:03","13:56:31",
+Bot22,"ODT",hard,56,Active,"Boss Hunter","Spawn Point (-161.6 3.2 -126.5)","1","13:56:36","N/A",

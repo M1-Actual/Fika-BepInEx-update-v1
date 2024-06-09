@@ -1,0 +1,8 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot2,"Skeeze",hard,47,Failed,"Big Red","Big Red: Objective #2","1","18:36:02","18:36:59",
+Bot1,"Tyfon",hard,47,Completed,"Storage","Storage: Objective #7","1","18:36:02","18:36:23",
+Bot1,"Tyfon",hard,47,Completed,"Storage","Storage: Objective #6","1","18:36:28","18:36:39",
+Bot1,"Tyfon",hard,47,Failed,"Storage","Storage: Objective #5","1","18:36:44","18:37:09",
+Bot21,"Virtual",hard,53,Pending,"Boss Hunter","Spawn Point (-161.6 3.2 -126.5)","1","18:36:33","N/A",
+Bot20,"John Pork",hard,49,Failed,"Bullshit","Item Flash drive with fake info","1","18:36:34","18:38:51",
+Bot20,"John Pork",hard,49,Active,"Bullshit","Zone Q019_3","1","18:38:56","N/A",

@@ -1,0 +1,10 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot62,"notGreg",normal,30,Completed,"Boss Hunter","Spawn Point (180.9 16.3 114.9)","1","13:42:10","13:42:24",
+Bot62,"notGreg",normal,30,Active,"Boss Hunter","Spawn Point (139.3 14.1 65.6)","1","13:42:29","N/A",
+Bot61,"agavalda",normal,49,Completed,"TerraGroup Garage","TerraGroup Garage: Objective #1","1","13:42:10","13:42:15",
+Bot61,"agavalda",normal,49,Failed,"TerraGroup Garage","TerraGroup Garage: Objective #2","2","13:42:21","13:43:40",
+Bot63,"Virtual",normal,42,Failed,"Saving the Mole","Zone Sandbox_5_Office_exploration","1","13:42:13","13:42:52",
+Bot63,"Virtual",normal,42,Failed,"Saving the Mole","Zone Sandbox_5_Laborant_exploration","1","13:42:57","13:43:27",
+Bot63,"Virtual",normal,42,Failed,"Saving the Mole","Item TerraGroup scientist's hard drive","1","13:43:32","13:44:58",
+Bot71,"Bingus",normal,45,Completed,"Shooting Cans","Zone Sandbox_2_AGS_exploration","1","13:43:16","13:44:02",
+Bot71,"Bingus",normal,45,Active,"Shooting Cans","Zone Sandbox_2_Kord_exploration","1","13:44:07","N/A",
